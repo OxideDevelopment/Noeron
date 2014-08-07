@@ -7,7 +7,7 @@ You can modify the terrain how ever you want, build a fortress, or a dungeon, yo
 
 ### Eclipse
 
-Go to `File -> Import -> Gradle -> Gradle Project`, click Browse and navigate to the root folder of your project, then click `Build Model`. After a while, you'll see a root project and subprojects (android, core, desktop, html, ios). Select all the projects and click `Finish`. Note that this process can take a minute or two the first time you do it, as Gradle and some dependencies will be downloaded in the background.
+Go to `File -> Import -> Gradle -> Gradle Project`, click Browse and navigate to the root folder of Noeron, then click `Build Model`. After a while, you'll see a root project and subprojects (android, core, desktop, html, ios). Select all the projects and click `Finish`. Note that this process can take a minute or two the first time you do it, as Gradle and some dependencies will be downloaded in the background.
 
 Now, right click on `Noeron-Desktop`, and click `Run as -> Gradle build..`. You should see a text area. If you want to simply run the project, enter  `run`, click  `Apply -> Run `.
 
