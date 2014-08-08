@@ -1,6 +1,6 @@
 # Noeron
 
-Noeron is a game where you must defeat oncoming waves of monsters. Zombies, Goos (More will be added later:exclamation:)
+Noeron is a game where you must defeat oncoming waves of monsters. Zombies, Goos, and Ghosts! (More will be added later:exclamation:)
 You can modify the terrain how ever you want, build a fortress, or a dungeon, you name it! ..Just don't die.
 
 ## Building Noeron
