@@ -12,3 +12,6 @@ Go to `File -> Import -> Gradle -> Gradle Project`, click Browse and navigate to
 Now, right click on `Noeron-Desktop`, and click `Run as -> Gradle build..`. You should see a text area. If you want to simply run the project, enter  `run`, click  `Apply -> Run `.
 
 If you want an actual jar file, type `dist`. A jar file will be generated in `Noeron/desktop/build/libs/desktop-1.0.jar`.
+
+
+To do list available here: https://trello.com/b/2k0M1l4Z/noeron
