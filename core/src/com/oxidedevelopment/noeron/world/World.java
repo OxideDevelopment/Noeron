@@ -136,7 +136,6 @@ public class World {
 	}
 	
 	public static World generateWorld(long seed){
-		//TODO: Implement this.
 		Random random = new Random(seed);
 		World world = new World();
 		int blocksToGenerateX = Gdx.graphics.getWidth() / BLOCK_SIZE;

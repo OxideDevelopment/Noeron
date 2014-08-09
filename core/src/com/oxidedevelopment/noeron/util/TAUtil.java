@@ -16,7 +16,6 @@ public class TAUtil {
 		batch = Noeron.getBatch();
 	}
 	
-	//TODO: Store this in a HashMap, and retrieve the sprite from the hashmap. 
 	public void draw(String spriteName, Location location) {
 		Sprite sprite = atlas.createSprite(spriteName);
 		sprite.setPosition(location.x, location.y);

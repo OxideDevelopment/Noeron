@@ -5,8 +5,6 @@ import com.badlogic.gdx.Screen;
 
 public class LevelSelect implements Screen {
 
-	//TODO: Implement this. xD
-	
 	@Override
 	public void render(float delta) {
 
